@@ -1,7 +1,7 @@
 {
   "name": "shadow-unlocker",
   "version": "1.0.0",
-  "description": "FRP Unlocking with Knox",
+  "description": "Online Samsung FRP Unlocker",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
